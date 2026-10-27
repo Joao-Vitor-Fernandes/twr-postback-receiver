@@ -4,7 +4,6 @@ API em TypeScript que **recebe webhooks de venda** (`POST`) vindos de plataforma
 
 Stack: Node 22 · TypeScript · Express 5 · Zod (validação) · SQLite (módulo embutido `node:sqlite`) · Vitest + Supertest.
 
-- **URL pública:** `<COLE AQUI A URL PÚBLICA>`
 - **Saúde:** `GET /health`
 
 ---
